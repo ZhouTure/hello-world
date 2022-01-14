@@ -1,3 +1,3 @@
 # hello-world
-I 'm interesting in language about computer.
+I 'm interesting in computer.
 Trying my best.
